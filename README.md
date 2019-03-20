@@ -1,2 +1,2 @@
 # STO-smartcontract
-Ethereum smartcontract of the Divider ICO
+STO smartcontract of the Divider STO
